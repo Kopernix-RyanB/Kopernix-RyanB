@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate frontend developer from Poland/Lebanon</h3>
 
-- 🌱 I’m currently learning **react and react native**
+- 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> and react native**
 
 - 📫 How to reach me **ryan.bannout@gmail.com**
 
